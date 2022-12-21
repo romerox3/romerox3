@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+https://github.com/eagrundy/romerox3/raw/output/github-contribution-grid-snake.svg
+
 <!--
 **romerox3/romerox3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
